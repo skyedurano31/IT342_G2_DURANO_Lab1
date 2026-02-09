@@ -1,10 +1,10 @@
 #DONE
 
 #IN-PROGRESS
-
-#TODO
 - [] backend user registration
 - [] backend user authentication
+
+#TODO
 - [] react register
 - [] react login
 - [] react dashboard/profile
