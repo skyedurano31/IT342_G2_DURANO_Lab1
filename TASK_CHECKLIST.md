@@ -9,4 +9,9 @@
 - [ ] react login
 - [ ] react dashboard/profile
 - [ ] react logout
+- [ ] kotlin register
+- [ ] kotlin login
+- [ ] kotlin dashboard/profile
+- [ ] kotlin logout
+
 
