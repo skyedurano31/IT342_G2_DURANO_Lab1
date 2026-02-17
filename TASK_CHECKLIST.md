@@ -2,19 +2,20 @@
 
 - [x] backend user registration
 - [x] backend user authentication
+- [x] react register
+- [x] react login
+- [x] react dashboard/profile
+- [x] react logout
 
 #IN-PROGRESS
-
-- [ ] react register
-- [ ] react login
-- [ ] react dashboard/profile
-- [ ] react logout
-
-#TODO
 
 - [ ] kotlin register
 - [ ] kotlin login
 - [ ] kotlin dashboard/profile
 - [ ] kotlin logout
+
+#TODO
+
+
 
 
