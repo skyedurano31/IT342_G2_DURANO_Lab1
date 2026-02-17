@@ -1,14 +1,12 @@
 #DONE
-
+- [x] backend user registration
+- [x] backend user authentication
 #IN-PROGRESS
-- [ ] backend user registration
-- [ ] backend user authentication
-
-#TODO
 - [ ] react register
 - [ ] react login
 - [ ] react dashboard/profile
 - [ ] react logout
+#TODO
 - [ ] kotlin register
 - [ ] kotlin login
 - [ ] kotlin dashboard/profile
