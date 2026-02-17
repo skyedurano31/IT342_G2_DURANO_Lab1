@@ -9,13 +9,14 @@ import javax.swing.*;
 @Table(name = "users")
 public class User {
     @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     private String username;
     private String email;
     private String password_hash;
 
     @Enumerated(EnumType.STRING)
-    private Role role = Role.GUEST;
+    private Role role = Role.ROLE_GUEST;
 
     public User (){}
     public User (String username,String email,String password_hash) {
